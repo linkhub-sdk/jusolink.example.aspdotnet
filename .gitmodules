@@ -1,0 +1,6 @@
+[submodule "Linkhub"]
+	path = Linkhub
+	url = https://github.com/linkhub-sdk/linkhub.dotnet
+[submodule "Jusolink"]
+	path = Jusolink
+	url = https://github.com/linkhub-sdk/jusolink.dotnet
